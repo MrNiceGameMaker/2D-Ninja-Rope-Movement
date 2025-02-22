@@ -1,4 +1,4 @@
-# 2D Ninja Rope & Movement System
+# Unity 2D Ninja Rope & Movement System
 
 This project implements **Liero-style ninja rope mechanics** and **N+ style movement physics** for a **2D physics-based platformer**. The system is designed to provide a fluid and responsive experience, combining rope physics, player momentum, and wall-climbing mechanics to create dynamic traversal gameplay.
 
